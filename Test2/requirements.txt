@@ -1,0 +1,4 @@
+# Optional helpers. The script provided does not require pandas/openpyxl but
+# if you prefer pandas-based processing, install these.
+pandas>=2.0
+openpyxl>=3.0
