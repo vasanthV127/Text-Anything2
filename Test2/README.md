@@ -53,3 +53,8 @@ python -m pytest -q
 ```
 
 If you'd like me to push these changes to your repository or add an API to serve the ranked JSON, tell me and I'll proceed.
+
+Repository
+----------
+- Test1 (original workspace): https://github.com/vasanthV127/Text-Anything.git
+- This Test2 snapshot (remote): https://github.com/vasanthV127/Text-Anything2.git
